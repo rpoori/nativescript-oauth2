@@ -1,0 +1,22 @@
+{
+  "name": "custom-nativescript-oauth2",
+  "version": "1.0.0",
+  "description": "Custom Implementation of NativeScript OAuth2 Plugin",
+  "main": "src/index.d.ts",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpoori/nativescript-oauth2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpoori/nativescript-oauth2/issues"
+  },
+  "homepage": "https://github.com/rpoori/nativescript-oauth2#readme"
+}
