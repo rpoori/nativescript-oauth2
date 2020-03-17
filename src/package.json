@@ -1,6 +1,6 @@
 {
-  "name": "nativescript-oauth2",
-  "version": "2.4.0",
+  "name": "custom-nativescript-oauth2",
+  "version": "1.0.0",
   "description": "OAuth 2 generic authorization plugin for NativeScript that doesn't install third party native libraries",
   "main": "oauth",
   "typings": "index.d.ts",
@@ -41,7 +41,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexziskind1/nativescript-oauth2.git"
+    "url": "git+https://github.com/alexziskind1/nativescript-oauth2.git"
   },
   "keywords": [
     "NativeScript",
@@ -54,17 +54,12 @@
     "iOS",
     "Android"
   ],
-  "author": {
-    "name": "Alexander Ziskind",
-    "email": "alex@nuvious.com",
-    "url": "https://nativescripting.com"
-  },
+  "author": "Alexander Ziskind <alex@nuvious.com> (https://nativescripting.com)",
   "bugs": {
     "url": "https://github.com/alexziskind1/nativescript-oauth2/issues"
   },
   "license": "MIT",
   "homepage": "https://github.com/alexziskind1/nativescript-oauth2",
-  "readmeFilename": "README.md",
   "devDependencies": {
     "tns-core-modules": "^5.2.0",
     "tns-platform-declarations": "^5.2.0",
